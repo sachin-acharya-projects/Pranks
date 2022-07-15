@@ -1,0 +1,10 @@
+[config]
+    debugger = True/False
+    wallpaper = PATH/TO/FILE/CONFIG/FILE
+    date = 3
+    mode = permanent / temporary
+    count = 1/0
+        1 = Only this time
+        0 = Always
+
+variableless of skipping ;
